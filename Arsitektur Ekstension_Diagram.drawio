@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" version="25.0.3">
+  <diagram name="Page-1" id="AEzdXnS8YIhAZyVfNp2m">
+    <mxGraphModel dx="1379" dy="1888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UtCS2w_crwQRbMSj6pxO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="448.29999999999995" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="203" />
+              <mxPoint x="240" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-1" value="Web Client" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="93.01" height="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UtCS2w_crwQRbMSj6pxO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="448.29999999999995" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="355" />
+              <mxPoint x="240" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-2" value="Mobile Client" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
+          <mxGeometry x="89.95999999999998" y="310" width="53.1" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-8" value="Akses salah satu website berita" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465.8" y="345" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UtCS2w_crwQRbMSj6pxO-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="598.3" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="435" />
+              <mxPoint x="750" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UtCS2w_crwQRbMSj6pxO-19" target="UtCS2w_crwQRbMSj6pxO-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-19" value="Jika sudah install ekstensi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="246.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-22" value="Jika belum install ekstensi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="223.3" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UtCS2w_crwQRbMSj6pxO-30" target="UtCS2w_crwQRbMSj6pxO-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="592.5" y="400" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-17" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="UtCS2w_crwQRbMSj6pxO-37">
+          <mxGeometry x="37.5" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-23" value="Install Ekstensi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UtCS2w_crwQRbMSj6pxO-37">
+          <mxGeometry y="70" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="358" y="400" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-30" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Store_Marketplace.svg;shadow=0;imageAspect=1;imageBackground=none;imageBorder=none;" vertex="1" parent="UtCS2w_crwQRbMSj6pxO-39">
+          <mxGeometry x="36" width="61.6" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-33" value="Buka Shop Browser" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UtCS2w_crwQRbMSj6pxO-39">
+          <mxGeometry y="70" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UtCS2w_crwQRbMSj6pxO-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="528.3" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-40" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.website;" vertex="1" parent="1">
+          <mxGeometry x="456.05" y="220" width="144.49" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UtCS2w_crwQRbMSj6pxO-44" target="UtCS2w_crwQRbMSj6pxO-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-44" value="Proses" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.settings;" vertex="1" parent="1">
+          <mxGeometry x="504.3" y="80" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UtCS2w_crwQRbMSj6pxO-45" target="UtCS2w_crwQRbMSj6pxO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UtCS2w_crwQRbMSj6pxO-45" target="UtCS2w_crwQRbMSj6pxO-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="-80" />
+              <mxPoint x="30" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-45" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.upgrade_application;" vertex="1" parent="1">
+          <mxGeometry x="454.3" y="-100" width="148" height="107.17" as="geometry" />
+        </mxCell>
+        <mxCell id="UtCS2w_crwQRbMSj6pxO-47" value="Output Proses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465.8" y="-130" width="115" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
